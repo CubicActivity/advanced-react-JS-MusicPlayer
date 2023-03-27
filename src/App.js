@@ -84,7 +84,7 @@ function App() {
       handleNextSong()
     }
   }
-
+//This is the musicAPI object where you can add your custom songs
   const musicAPI = [
     {
       songName: 'Song title',
