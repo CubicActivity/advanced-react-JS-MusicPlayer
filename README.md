@@ -10,6 +10,5 @@ If you wanna play some tunes add your favorite mp3 files in the musicAPI object 
       songSrc: './Assets/songs/',
       songAvatar: './Assets/Images/'
     }
-
-  ]
+    ]
 </code>
